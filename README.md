@@ -32,6 +32,8 @@ This open-source repository is maintained separately from the Cache Server avail
 ## Server Setup
 
 Download and install LTS version 10.15.x of Node.js from the [Node.JS website](https://nodejs.org/en/download/).
+Direct Link to ver. ¨[10.15.3](https://nodejs.org/download/release/v10.15.3/node-v10.15.3-x64.msi) **Windows MSI Installer**
+Direct Link to [all plataforms](https://nodejs.org/download/release/v10.15.3/)
 
 #### Install from npm registry
 
